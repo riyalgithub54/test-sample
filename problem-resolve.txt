@@ -1,0 +1,60 @@
+----------------------------------------------------------------------------------------------------
+						                  14-06-2018
+----------------------------------------------------------------------------------------------------
+
+1) Mattwebsite for excel import and export :-
+
+URL :- https://stackoverflow.comquestions/50409366/call-to-undefined-method-maatwebsite-excel-excelcreate-laravel-5-6
+
+	"require": {
+        "php": "^7.1.3",
+        "fideloper/proxy": "^4.0",
+        "laravel/framework": "5.5.*",
+        "laravel/tinker": "^1.0",
+        "laravelcollective/html": "^5.2.0",
+        "maatwebsite/excel": "~2.1.0"
+    },
+----------------------------------------------------------------------------------------------------
+						                  15-06-2018
+----------------------------------------------------------------------------------------------------
+2) At a time One User Logout in MultiAuth Functionality :-
+	
+URL :- https://stackoverflow.com/questions/40925632/laravel-5-2-multi-auth-logout-not-working
+
+	public function logout()
+	{
+  		Auth::guard('web')->logout();
+  		Auth::guard('admin')->logout();
+	}
+=====================================================================================================
+3) Toastr notification message display in window :- 
+
+URL :- https://devdojo.com/blog/how-to/toastr-notifications-in-your-laravel-app
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.js"></script>
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.css">
+
+=====================================================================================================
+4) Multi Auth Forgot / Reset Password :- 
+
+URL :- http://muva.co.ke/blog/part-viii-admin-password-reset-in-our-multiple-authentication-system-for-laravel-5-4/
+
+    - Just Follow Steps
+
+=====================================================================================================
+5) Country / State / City SQL File :-
+
+URL :- https://github.com/hiiamrohit/Countries-States-Cities-database
+----------------------------------------------------------------------------------------------------
+                                        18-06-2018
+----------------------------------------------------------------------------------------------------
+6) XML to JSON && JSON to XML :-
+
+URL :- http://jsfiddle.net/abdmob/gkxucxrj/1/
+
+----------------------------------------------------------------------------------------------------
+                                        20-06-2018
+----------------------------------------------------------------------------------------------------
+7) Nested Ajax Call :-
+
+URL :- https://stackoverflow.com/questions/22233650/jquery-nested-ajax-calls-formatting

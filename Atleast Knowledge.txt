@@ -1,0 +1,19 @@
+Can you please confirm that these skillsets would be able to be found for a lead developer?: 
+=========================================================================================== 
+From or Developer Lead 
+  
+Need to have: 
+LAMP Stack 
+Redis 
+Postgresql 
+Framework Experience (Laravel) 
+Version control with git 
+HTML, CSS, JS 
+jQuery 
+Linux Admin/configuration experience 
+Building and interacting with APIs 
+  
+Nice to have: 
+Python 
+React JS 
+Phonegap/Cordova 
